@@ -1,0 +1,15 @@
+{
+  "name": "promises-and-callback",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cisca",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.0.0",
+    "qr-image": "^3.2.0"
+  }
+}
